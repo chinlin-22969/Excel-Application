@@ -1,5 +1,4 @@
 # Excel-Application
-Using openpyxl package.
 
 Check out the demo video: https://youtu.be/-Edvnarnegs !
 
